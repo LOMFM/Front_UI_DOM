@@ -1,4 +1,4 @@
-#Phone Number Input Format Isolation
+### Phone Number Input Format Isolation
 jQuery Code
 ```
 String.prototype.splice = function(idx, rem, str) {
